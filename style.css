@@ -59,8 +59,14 @@
             height: auto;
         }
         a {
-          weight:bold;
-            color: #ffffff;
+          font-weight: bold;
+          color: #ffffff;
+        }
+        .title h1 {
+          margin: 0;
+          padding: 10px 0;
+          color: #ffffff;
+          font-size: 1.6em;
         }
 .title_content {
     font-size: 1.2em; 
